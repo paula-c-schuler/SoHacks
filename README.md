@@ -42,12 +42,13 @@ Online Courses
 - [CodeSchool](https://www.codeschool.com/)
 - [CodeAcademy](http://www.codecademy.com/)
 - [Khan Academy](https://www.khanacademy.org/)
-- [Scale School](http://www.scalecollege.org/)
+- [CodeConquest](http://www.codeconquest.com/)
 - [Scratch](https://scratch.mit.edu/)
 
 Schools in San Antonio
 - [Codeup](http://codeup.com/)
-- [CodeConquest](http://www.codeconquest.com/)
+- [Scale School](http://www.scalecollege.org/)
+
 
 Where do I go when I have hard question?
 - [Stack Overflow](http://stackoverflow.com/)
