@@ -12,10 +12,23 @@ The next piece of our analogy is the skin, Cascading Style Sheets (CSS).  CSS gi
 
 The last part of our analogy is the muscle, JavaScript (JS).  JS makes things move, pop, push all around the page.  It moves the muscles (HTML) and skin (CSS) and can be set to change over time, or to change with input from something like a keyboard button press, or a mouse click.
 
-- ToDo: Group Exercise Use Chrome Dev Tools to examine a webiste (wikipedia), show how to see html, css and javascript console
-- ToDo: Individual exercise, use the dev tools to examine another webpage
+##### Guided Exercise:
+- Download Google Chrome, as a group navigate to the wikipedia page for [HTML](https://en.wikipedia.org/wiki/HTML)
+- Right click on the heading that says 'HTML'
+- From the drop-down menu, select the option that says 'Inspect Element' 
+- A window, the Development Console, should pop up with a lot of random text and special characters and tabs.
+- In that new window, look for some text that looks like this:
+```
+	<h1 id="firstHeading" class="firstHeading" lang="en">HTML</h1>
+```
+- In that same window, double click on the "HTML" text, the text should highlight in blue, now type in the name of your favorite sports team!
+- Congratulations!  You have made your first change to a website!
 
----
+##### Individual Exercise:
+- Go to a popular site like Facebook, and change the words on the page using the Developers Console in Google Chrome
+- Look at the individual tabs in the developer console, don't worry if you don't recognize everything, we will talk through more of this later.
+
+
 #### HTML
 - ToDo - Description: What is HTML?  What is a tag?  What is the structure of a page?
 - ToDo - Group Exercise:  Create a template for an exercise,  add an element to a page i.e. a picture from facebook.
