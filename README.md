@@ -52,11 +52,9 @@ Online Courses
 
 Resources in San Antonio
 - [Codeup](http://codeup.com/)
-- [Scale School](http://www.scalecollege.org/)
 
 Where do I go when I have hard question?
 - [Stack Overflow](http://stackoverflow.com/)
 - [Github](https://github.com/)
 - [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
 - [W3Schools](http://www.w3schools.com/)
-
