@@ -29,23 +29,15 @@ The last part of our analogy is the muscle, JavaScript (JS).  JS makes things mo
 - Look at the individual tabs in the developer console, don't worry if you don't recognize everything, we will talk through more of this later.
 
 
-#### HTML
-- ToDo - Description: What is HTML?  What is a tag?  What is the structure of a page?
-- ToDo - Group Exercise:  Create a template for an exercise,  add an element to a page i.e. a picture from facebook.
-- ToDo - Indidual Exercise: Create a template for an exercise 
+##### Now What?
+Now that we have seen the insides of a web-page, we are going learn a little more about each part.  Check out the lesson and exercises here. To follow along, click the "Download Zip" to the right or check out the individual files listed below:
 
----
-#### CSS
-- ToDo - Description: What is CSS? Selectors, Styles, Borders, Padding, Margin etc...
-- ToDo - Group Exercise:  Create a template for group exercise
-- ToDo - Indidual Exercise: Create a template for an exercise 
-
-
----
-#### Javascript
-- ToDo - Description: What is Javascript? What is Jquery?  Using Selectors to act on page, responding to user input, getting information from the user
-- ToDo - Group Exercise:  Create a template for an exercise,  add an element to a page i.e. a picture from facebook.
-- ToDo - Indidual Exercise: Create a template for an exercise 
+- [HTML Lesson](Lessons/HTMLLesson.html)
+- [HTML Exercise](Exercises/HTMLExercise.html)
+- [CSS Lesson](Lessons/CSSLesson.html)
+- [CSS Exercise](Exercises/CSSExercise.html)
+- [Javascript Lesson](Lessons/JavaScriptLesson.html)
+- [Javascript Exercise](Lessons/JavaScriptExercise.html)
 
 ---
 #### Additional Resources
@@ -58,10 +50,9 @@ Online Courses
 - [CodeConquest](http://www.codeconquest.com/)
 - [Scratch](https://scratch.mit.edu/)
 
-Schools in San Antonio
+Resources in San Antonio
 - [Codeup](http://codeup.com/)
 - [Scale School](http://www.scalecollege.org/)
-
 
 Where do I go when I have hard question?
 - [Stack Overflow](http://stackoverflow.com/)
